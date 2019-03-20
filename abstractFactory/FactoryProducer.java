@@ -1,3 +1,5 @@
+package abstractFactory;
+
 public class FactoryProducer {
     public AbstractFactory getFactory(Boolean fact) {
         if (fact)

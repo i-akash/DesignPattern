@@ -1,3 +1,5 @@
+package factory;
+
 public class LangFactory{
     public  LangFactory(){
 

@@ -1,3 +1,4 @@
+package abstractFactory;
 public class OutputJavascript implements Language {
     public OutputJavascript() {
 

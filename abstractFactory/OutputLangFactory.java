@@ -1,3 +1,4 @@
+package abstractFactory;
 public class OutputLangFactory extends AbstractFactory {
     public OutputLangFactory() {
 

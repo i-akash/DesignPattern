@@ -1,3 +1,4 @@
+package abstractFactory;
 public class InputJavascript implements Language {
     public InputJavascript() {
 
